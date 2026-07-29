@@ -1,2 +1,2 @@
-# Linguagem-e-Tecnica-de-Programa-o
+# Linguagem-e-Tecnica-de-Programacao
 Matéria Unicesumar Prof. Dacio
